@@ -1,7 +1,6 @@
 'use client'
 import Lottie from "lottie-react";
 import letterJSON from './animations/letter.json'
-import { Button } from "@/components/ui/button";
 import { useEffect, useRef } from "react";
 import { DialogConvite } from "./components/dialog-convite";
 
